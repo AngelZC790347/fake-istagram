@@ -1,0 +1,11 @@
+
+<form method="Post">
+	<table>
+		{% for field in form  %}
+			<tr>
+				<td>{{ field }}</td>
+			</tr>
+		{% endfor %}
+	</table>
+	<span>{{redirect_message |safe}}</span>
+</form>

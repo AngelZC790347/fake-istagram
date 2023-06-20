@@ -1,0 +1,1092 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"em",
+				"EmailField"
+			],
+			[
+				"p",
+				"pass"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"in",
+				"in"
+			],
+			[
+				"pa",
+				"placeholder"
+			],
+			[
+				"ma",
+				"jmacro\tJinja macro"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"s",
+				"submitLabel"
+			],
+			[
+				"Su",
+				"SubmitField"
+			],
+			[
+				"la",
+				"label="
+			],
+			[
+				"St",
+				"StringField"
+			],
+			[
+				"Co",
+				"Comment"
+			],
+			[
+				"S",
+				"Set"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"userna",
+				"user_name"
+			],
+			[
+				"O",
+				"ORM"
+			],
+			[
+				"or",
+				"orm"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"regi",
+				"register"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"metho",
+				"method"
+			],
+			[
+				"Pa",
+				"password"
+			],
+			[
+				"emal",
+				"email"
+			],
+			[
+				"Cl",
+				"class\tNew Class"
+			],
+			[
+				"url",
+				"url_prefix="
+			],
+			[
+				"CS",
+				"CSRFProtect"
+			],
+			[
+				"flask",
+				"flask_wtf"
+			],
+			[
+				"fla",
+				"flask_bootstrap"
+			],
+			[
+				"f",
+				"flask"
+			],
+			[
+				"Da",
+				"Database"
+			],
+			[
+				"o",
+				"orm"
+			],
+			[
+				"conf",
+				"configparser"
+			],
+			[
+				"sq",
+				"sqlite"
+			],
+			[
+				"r",
+				"run"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"di",
+				"diagrams"
+			],
+			[
+				"mat",
+				"matplotlib"
+			],
+			[
+				"cu",
+				"cuartil2_1,cuartil2_"
+			],
+			[
+				"cua",
+				"cuartil2_"
+			],
+			[
+				"cla",
+				"class\tNew Class"
+			],
+			[
+				"vizual",
+				"vizualization"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"q",
+				"q="
+			],
+			[
+				"g",
+				"groupby"
+			],
+			[
+				"ob",
+				"observaciones_ordenadas"
+			],
+			[
+				"a",
+				"axis="
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"b",
+				"by="
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"dr",
+				"drop="
+			],
+			[
+				"num",
+				"numpy"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"t",
+				"tmp"
+			],
+			[
+				"i",
+				"if\tif … fi"
+			],
+			[
+				"CGImage",
+				"CGImageCreate"
+			],
+			[
+				"CGIma",
+				"CGImageRef"
+			],
+			[
+				"CGImageCrea",
+				"CGImageCreateWithImageInRect"
+			],
+			[
+				"CGImag",
+				"CGImageGetDecode"
+			],
+			[
+				"CGimae",
+				"CGImage"
+			],
+			[
+				"CGimage",
+				"CGImageCreate"
+			],
+			[
+				"CGim",
+				"CGImageCreate"
+			],
+			[
+				"CGBitm",
+				"CGBitmapContextCreate"
+			],
+			[
+				"CGBi",
+				"CGBitmapContextCreate"
+			],
+			[
+				"Cor",
+				"CoreGraphics/"
+			],
+			[
+				"v",
+				"vertex"
+			],
+			[
+				"loadData",
+				"loadDataf"
+			],
+			[
+				"l",
+				"loadDataf"
+			],
+			[
+				"glgetun",
+				"glGetUniformLocation"
+			],
+			[
+				"glge",
+				"glGetUniformfv"
+			],
+			[
+				"glTime",
+				"glfwGetTime"
+			],
+			[
+				"uni",
+				"uniformName"
+			],
+			[
+				"lo",
+				"loadData3f"
+			],
+			[
+				"gl",
+				"glUniform4fv"
+			],
+			[
+				"ve",
+				"vertexShader"
+			],
+			[
+				"fr",
+				"fragShader"
+			],
+			[
+				"fra",
+				"fragmentShaderSourceCode"
+			],
+			[
+				"ver",
+				"vertexShaderSourceCode"
+			],
+			[
+				"GL_Tr",
+				"GL_TRIANGLES"
+			],
+			[
+				"glDr",
+				"glDrawArrays"
+			],
+			[
+				"tr",
+				"triangles"
+			],
+			[
+				"glB",
+				"glBindBuffer"
+			],
+			[
+				"GL_L",
+				"GL_LINES"
+			],
+			[
+				"GL_Un",
+				"GL_UNSIGNED_INT"
+			],
+			[
+				"ind",
+				"indices"
+			],
+			[
+				"GL",
+				"GL_ELEMENT_ARRAY_BUFFER"
+			],
+			[
+				"glBi",
+				"glBindBuffer"
+			],
+			[
+				"main",
+				"mainWindow"
+			],
+			[
+				"W",
+				"Window.hpp"
+			],
+			[
+				"w",
+				"currentWindow"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"F",
+				"funciones.hpp"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"str",
+				"strstr"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"io",
+				"ios"
+			],
+			[
+				"nos",
+				"noskipws"
+			],
+			[
+				"strca",
+				"strcat"
+			],
+			[
+				"glb",
+				"glBindBuffer"
+			],
+			[
+				"V",
+				"VBO"
+			],
+			[
+				"glbindA",
+				"glBindVertexArray"
+			],
+			[
+				"GLDR",
+				"glDrawArrays"
+			],
+			[
+				"GL_T",
+				"GL_TRIANGLES"
+			],
+			[
+				"gldr",
+				"glDrawArrays"
+			],
+			[
+				"glbi",
+				"glBindVertexArray"
+			],
+			[
+				"gldele",
+				"glDeleteShader"
+			],
+			[
+				"strc",
+				"strcpy"
+			],
+			[
+				"setKe",
+				"glfwSetKeyCallback"
+			],
+			[
+				"glfws",
+				"glfwSwapBuffers"
+			],
+			[
+				"glf",
+				"glfwWindowShouldClose"
+			],
+			[
+				"wo",
+				"window2"
+			],
+			[
+				"glfw",
+				"glfwTerminate"
+			],
+			[
+				"GLFWindow",
+				"GLFWwindow"
+			],
+			[
+				"Gl",
+				"GLUT/"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"Use",
+				"User"
+			],
+			[
+				"st",
+				"static_folder"
+			],
+			[
+				"ap",
+				"app"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"head",
+				".headers"
+			],
+			[
+				"be",
+				"before_request"
+			],
+			[
+				"sta",
+				"status="
+			],
+			[
+				"no",
+				"nt_config"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jinj",
+				"Set Syntax: Jinja"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"anacon",
+				"Anaconda: Vagrant Status"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable p",
+				"Package Control: Enable Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"file ic",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"cuz",
+				"UI: Customize Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"cuzt",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ic",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"enable pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"conda",
+				"Anaconda: Vagrant Up"
+			],
+			[
+				"disable p",
+				"Package Control: Disable Package"
+			],
+			[
+				"e",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"serve",
+				"LSP: Restart Server"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"pr",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"lsp-",
+				"Preferences: LSP-SourceKit Settings"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"json",
+				"LSP Development: Parse VSCode Package JSON From Clipboard"
+			],
+			[
+				"C+",
+				"Build With: C++ Single File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 100.0,
+		"history":
+		[
+			"print",
+			"ls",
+			"ps",
+			"gcc",
+			"ps",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/venv",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/venv/include"
+	],
+	"file_history":
+	[
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/publication.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/password.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/static/index.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/templates/form.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/templates/base.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/login.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/auth.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/registration.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/common.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/fake-istagram.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/app.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/templates/register.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Shared/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/commnets.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/.gitignore",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/registration-form.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/config.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/requierement.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/tutorial-ml/diagrams.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/tutorial-ml/main.py",
+		"/Users/angelzuniga/test",
+		"/Users/angelzuniga/Console",
+		"/Users/angelzuniga/b",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/figures.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/funciones.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/funciones.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/makefile",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/triangle.vs",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Shader.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Shader.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/color.vs",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main.cpp",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gl3.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Window.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/config.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main.cpp.s",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/triangle.gsh",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/color.gsh",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Window.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gltypes.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/color.sd",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/triangle.sd",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/window.hpp",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gl.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/test.s",
+		"/Users/angelzuniga/Documents/programacion/clang-files/hello.asm",
+		"/Users/angelzuniga/Documents/programacion/clang-files/test.c",
+		"/Users/angelzuniga/Documents/programacion/clang-files/hello.s",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/app.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/templates/register.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/venv/lib/python3.8/site-packages/flask/ctx.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/templates/base.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/templates/form.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/setting.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/middlewares/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/frontend/src/App.vue",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/frontend/.gitignore",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/requirements.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/fit-api.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/external_services.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/notion_settings.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/exercise.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/hash.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/routine.py",
+		"/Users/angelzuniga/Library/Caches/Sublime Text 3/Package Storage/LSP-volar/19.7.0/server/node_modules/typescript/lib/lib.dom.d.ts",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/C++/C Single File.sublime-build",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/npm.sublime-build",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/frontend/vite.config.js",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/fir-api.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/fit-api.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/venv/pyvenv.cfg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/index.php",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-app/src/public/api.py",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server1/index.js",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server1/Dockerfile",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server2/index.js",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server2/Dockerfile",
+		"/Users/angelzuniga/Documents/programacion/node-apps/Dockerfile",
+		"/private/etc/apache2/other/mpm.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server2/package.json",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server1/package.json",
+		"/Users/angelzuniga/Library/Caches/Sublime Text 3/Package Storage/LSP-typescript/19.7.0/typescript-language-server/node_modules/typescript/lib/lib.es5.d.ts",
+		"/Users/angelzuniga/Library/Caches/Sublime Text 3/Package Storage/LSP-typescript/19.7.0/typescript-language-server/node_modules/typescript/lib/lib.dom.d.ts",
+		"/Users/angelzuniga/Library/Caches/typescript/5.0/node_modules/@types/node/net.d.ts",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/buffer.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/buffer.h",
+		"/usr/local/Cellar/glfw/3.3.8/include/GLFW/glfw3.h",
+		"/Users/angelzuniga/Documents/programacion/python-apps/test.py",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/index.html",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/Food.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/interfaces/utilities.ts",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/Map.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/main.ts",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/App.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/Sanke.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/vite.config.ts",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/SanakeSibling.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/interfaces/comonProps.ts",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/server.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/chat.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/data.json",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/Angel.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/venv/lib/python3.8/site-packages/aiohttp/web_response.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/venv/lib/python3.8/site-packages/heyoo/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/venv/lib/python3.8/site-packages/aiohttp/client.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/A.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/51934305403A.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/Miguel.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/venv/lib/python3.8/site-packages/pip/_internal/models/link.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/angel.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/wsp_bot.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/wsp_bot/untitled",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/SnakeSibling.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/style.css",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/tutorial-vue.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/tsconfig.json",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/node_modules/typescript/lib/lib.dom.d.ts"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"field",
+			"In",
+			"\")\n",
+			"):\n",
+			"user.py",
+			"dt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 51.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 270.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Flask",
+	"project": "fake-istagram.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Map",
+				"src/components/Map.vue"
+			],
+			[
+				"MA",
+				"src/main.ts"
+			],
+			[
+				"",
+				"src/App.vue"
+			],
+			[
+				"te",
+				"test/test.js"
+			],
+			[
+				"no",
+				"JS/nodo.js"
+			],
+			[
+				"bu",
+				"buffer.cpp"
+			],
+			[
+				"buf",
+				"buffer.h"
+			],
+			[
+				"ma",
+				"makefile"
+			],
+			[
+				"f",
+				"funciones.cpp"
+			],
+			[
+				"m",
+				"makefile"
+			],
+			[
+				"ro",
+				"styles/road.css"
+			],
+			[
+				"glo",
+				"styles/global.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"algo",
+				"JS/algoritmos.js"
+			],
+			[
+				"a",
+				"JS/algoritmos.js"
+			],
+			[
+				"r",
+				"JS/road.js"
+			],
+			[
+				"re",
+				"res.json"
+			],
+			[
+				"res",
+				"res.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

@@ -1,7 +1,8 @@
-from ...models import db
-from pony.orm import Required
+from src.models.orm import db
+from pony.orm import Optional, Required, PrimaryKey
 
 
-class UserPassword(db.Entity):
-    owner = Required('User', cascade_delete=True)
+class User_Password(db.Entity):
+    id = PrimaryKey(int, auto=True)
+    owner = Optional('User')
     hash = Required(str)

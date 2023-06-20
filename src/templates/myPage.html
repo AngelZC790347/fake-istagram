@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}This is an example page{% endblock %}
+
+{% block navbar %}
+<div class="navbar navbar-fixed-top">
+  <!-- ... -->
+</div>
+{% endblock %}
+
+{% block content %}
+  {% if form %}
+  	<form method="Post" enctype="multipart/form-data">
+		<table>
+			{% for field in form  %}
+				<tr>
+					<td>{{ field }}</td>
+				</tr>
+			{% endfor %}
+		</table>
+	</form>
+  {% endif %}
+  {% if usuario %}
+  	<header style="padding:3% 5%;">
+  		<div style="display: flex;float: inline-start;">
+  			<div><img style="max-height: 70px;border-radius: 50%;border: solid 0.2px #b3b3b3; box-direction: revert-layer; box-shadow: 0.1px 0.3px 0.1px 0.7px #4c4c4c;margin-right: 30px" src="{{url_for('static',filename="default_avatar.png")}}"></div>
+  			<div >
+  				<div><h2>{{usuario.user_name}}</h2></div>
+  				<div style="justify-content: space-between">
+	  				<span style="margin-right: 10px">{{usuario.followers.count()}} segidores</span>
+	  				<span>{{usuario.followed.count()}} seguidos</span>
+  				</div>
+  				<div style="margin-top: 20px;"><button style="margin-right: 5px;"><a style="text-decoration: none;" href="/posts">Agregar foto</a></button><button btn-larg btn-primary><a style="text-decoration: none;" href="/auth/logout">Salir</a></button></div>
+			</div>
+
+  	</header>
+  	<section style="padding: 3% 5%;">
+  		{% if usuario.posts|length == 0 %}
+  		<div>no hay publicaiones aun</div>
+  	{% else %}
+  		{% for post in usuario.posts %}
+  			<div style="margin-bottom: 20px;padding-bottom: 50px;">
+  				<img src="{{post.get_img_src()}}" height="200px" width="200px">
+  				<div>
+  					<span>likes {{post.likes}}</span>
+  					<p>{{ post.description}}</p>
+  				</div> 
+  				
+
+  			</div>
+		{% endfor %}
+	{% endif %}
+  	</section>
+  	
+{% endif %}
+{% endblock %}
