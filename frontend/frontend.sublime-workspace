@@ -1,0 +1,1100 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ho",
+				":hover"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"x",
+				"x-small"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fontw",
+				"font-weight"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"s",
+				"style?"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"m",
+				"marginRight?"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"React",
+				"React"
+			],
+			[
+				"Ini",
+				"Incio"
+			],
+			[
+				"a",
+				"avatarLogo"
+			],
+			[
+				"pos",
+				"newPostLogo"
+			],
+			[
+				"n",
+				"notificationLogo"
+			],
+			[
+				"ex",
+				"explorationLogo"
+			],
+			[
+				"bu",
+				"buscadorLogo"
+			],
+			[
+				"react",
+				"React"
+			],
+			[
+				"br",
+				"BrowserRouter"
+			],
+			[
+				"r",
+				"router"
+			],
+			[
+				"Rou",
+				"RouterProvider"
+			],
+			[
+				"Ro",
+				"RouterProvider"
+			],
+			[
+				"cre",
+				"createBrowserRouter"
+			],
+			[
+				"Br",
+				"BrowserRouter"
+			],
+			[
+				"rea",
+				"react-router-dom"
+			],
+			[
+				"elem",
+				"element:"
+			],
+			[
+				"ro",
+				"router={router}"
+			],
+			[
+				"L",
+				"Link"
+			],
+			[
+				"padd",
+				"padding-top:"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"dis",
+				"display: inline-block;"
+			],
+			[
+				"id",
+				"id?"
+			],
+			[
+				"st",
+				"style?"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"tex",
+				"text-justify"
+			],
+			[
+				"style",
+				"style?"
+			],
+			[
+				"text",
+				"text-align:"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"font",
+				"font-weight:"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"ava",
+				"avatarLogo"
+			],
+			[
+				"new",
+				"newPostLogo"
+			],
+			[
+				"newPostLo",
+				"newPostLogo from '/newPost.svg'"
+			],
+			[
+				"cha",
+				"chatLogo from '/chat.svg'"
+			],
+			[
+				"explora",
+				"explorationLogo from '/exploration.svg'"
+			],
+			[
+				"inicio",
+				"inicioLogo from '/inicio.svg'"
+			],
+			[
+				"avat",
+				"avatarLogo from '/avatar.svg'"
+			],
+			[
+				"con",
+				"configLogo"
+			],
+			[
+				"configLo",
+				"configLogo from '/config.svg'"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"is",
+				"istagramTittle"
+			],
+			[
+				"RE",
+				"reactLogo"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"dv",
+				"div"
+			],
+			[
+				"10-",
+				"3.10-alpine"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"P",
+				"PostPhoto"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"cal",
+				"class\tNew Class"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"shdo",
+				"box-shadow"
+			],
+			[
+				"bode",
+				"box-direction"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"sta",
+				"static_folder="
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"fol",
+				"followed"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"c",
+				"class\tNew Class"
+			],
+			[
+				"e",
+				"encode"
+			],
+			[
+				"F",
+				"files"
+			],
+			[
+				"Fi",
+				"FileField"
+			],
+			[
+				"ge",
+				"__getattribute__"
+			],
+			[
+				"w",
+				"wtforms"
+			],
+			[
+				"fl",
+				"flask"
+			],
+			[
+				"po",
+				"post_bp"
+			],
+			[
+				"u",
+				"url_prefix="
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"se",
+				"secure_filename"
+			],
+			[
+				"we",
+				"werkzeug"
+			],
+			[
+				"js",
+				"jsonify"
+			],
+			[
+				"Fil",
+				"FileField"
+			],
+			[
+				"Flas",
+				"FlaskForm"
+			],
+			[
+				"sec",
+				"secure_filename"
+			],
+			[
+				"byte",
+				"bytes"
+			],
+			[
+				"File",
+				"FileRequired"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"sess",
+				"db_session"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"j",
+				"jsonify"
+			],
+			[
+				"__di",
+				"__dict__"
+			],
+			[
+				"dic",
+				"__dict__"
+			],
+			[
+				"Us",
+				"User_Password"
+			],
+			[
+				"em",
+				"EmailField"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"Su",
+				"SubmitField"
+			],
+			[
+				"la",
+				"label="
+			],
+			[
+				"St",
+				"StringField"
+			],
+			[
+				"Co",
+				"Comment"
+			],
+			[
+				"S",
+				"Set"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"userna",
+				"user_name"
+			],
+			[
+				"O",
+				"ORM"
+			],
+			[
+				"or",
+				"orm"
+			],
+			[
+				"regi",
+				"register"
+			],
+			[
+				"render",
+				"render_template"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"React",
+				"Set Syntax: React JSX"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"en",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enble",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"ji",
+				"Set Syntax: Jinja"
+			],
+			[
+				"jinj",
+				"Set Syntax: Jinja"
+			],
+			[
+				"anacon",
+				"Anaconda: Vagrant Status"
+			],
+			[
+				"enable p",
+				"Package Control: Enable Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"file ic",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"cuz",
+				"UI: Customize Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"cuzt",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ic",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"enable pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"conda",
+				"Anaconda: Vagrant Up"
+			],
+			[
+				"disable p",
+				"Package Control: Disable Package"
+			],
+			[
+				"e",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"serve",
+				"LSP: Restart Server"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"pr",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"lsp-",
+				"Preferences: LSP-SourceKit Settings"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"json",
+				"LSP Development: Parse VSCode Package JSON From Clipboard"
+			],
+			[
+				"C+",
+				"Build With: C++ Single File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 100.0,
+		"history":
+		[
+			"print",
+			"ls",
+			"ps",
+			"gcc",
+			"ps",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/pages/profile.css",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/index.css",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/components/profile.css",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/components/Profile.jsx",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/App.css",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/Incio.jsx",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/App.jsx",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/avatar.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/exploration.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/assets/istagram.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/index.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/notification.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/config.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/istagram.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/main.jsx",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/vite.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/buscador.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/public/reels.svg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/src/components/IstagramTittle.jsx",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/frontend/package.json",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/middlewares.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/.gitignore",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/templates/base.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/orm/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/templates/form.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/orm/publication.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/form/publication_post.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/common.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/auth.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/config.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/form/registration.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/app.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/shared/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/posts.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/templates/myPage.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/dockerfile",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/shared/post.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/shared/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/orm/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/password.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/commnets.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/publication.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/ORM/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/static/index.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/login.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/registration.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/fake-istagram.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/templates/register.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Shared/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/src/models/Form/registration-form.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fake-istagram/requierement.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/tutorial-ml/diagrams.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/tutorial-ml/main.py",
+		"/Users/angelzuniga/test",
+		"/Users/angelzuniga/Console",
+		"/Users/angelzuniga/b",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/figures.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/funciones.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/funciones.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/makefile",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/triangle.vs",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Shader.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Shader.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/color.vs",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main.cpp",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gl3.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Window.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/config.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main.cpp.s",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/triangle.gsh",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/color.gsh",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/Window.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gltypes.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/color.sd",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/shaders/triangle.sd",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/window.hpp",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gl.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/test.s",
+		"/Users/angelzuniga/Documents/programacion/clang-files/hello.asm",
+		"/Users/angelzuniga/Documents/programacion/clang-files/test.c",
+		"/Users/angelzuniga/Documents/programacion/clang-files/hello.s",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/user.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/app.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/templates/register.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/venv/lib/python3.8/site-packages/flask/ctx.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/templates/base.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/templates/form.html",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/setting.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/middlewares/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/frontend/src/App.vue",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/frontend/.gitignore",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/requirements.txt",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/fit-api.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/external_services.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/notion_settings.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/exercise.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/hash.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/models/routine.py",
+		"/Users/angelzuniga/Library/Caches/Sublime Text 3/Package Storage/LSP-volar/19.7.0/server/node_modules/typescript/lib/lib.dom.d.ts",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/C++/C Single File.sublime-build",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/npm.sublime-build",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/frontend/vite.config.js",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/fir-api.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/fit-api.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/venv/pyvenv.cfg",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-api/src/index.php",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-app/src/public/api.py",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server1/index.js",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server1/Dockerfile",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server2/index.js",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server2/Dockerfile",
+		"/Users/angelzuniga/Documents/programacion/node-apps/Dockerfile",
+		"/private/etc/apache2/other/mpm.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server2/package.json",
+		"/Users/angelzuniga/Documents/programacion/node-apps/server1/package.json",
+		"/Users/angelzuniga/Library/Caches/Sublime Text 3/Package Storage/LSP-typescript/19.7.0/typescript-language-server/node_modules/typescript/lib/lib.es5.d.ts",
+		"/Users/angelzuniga/Library/Caches/Sublime Text 3/Package Storage/LSP-typescript/19.7.0/typescript-language-server/node_modules/typescript/lib/lib.dom.d.ts",
+		"/Users/angelzuniga/Library/Caches/typescript/5.0/node_modules/@types/node/net.d.ts"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 51.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/npm.sublime-build",
+	"project": "frontend.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"a",
+				"src/App.jsx"
+			],
+			[
+				"",
+				"frontend.sublime-project"
+			],
+			[
+				"Map",
+				"src/components/Map.vue"
+			],
+			[
+				"MA",
+				"src/main.ts"
+			],
+			[
+				"te",
+				"test/test.js"
+			],
+			[
+				"no",
+				"JS/nodo.js"
+			],
+			[
+				"bu",
+				"buffer.cpp"
+			],
+			[
+				"buf",
+				"buffer.h"
+			],
+			[
+				"ma",
+				"makefile"
+			],
+			[
+				"f",
+				"funciones.cpp"
+			],
+			[
+				"m",
+				"makefile"
+			],
+			[
+				"ro",
+				"styles/road.css"
+			],
+			[
+				"glo",
+				"styles/global.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"algo",
+				"JS/algoritmos.js"
+			],
+			[
+				"r",
+				"JS/road.js"
+			],
+			[
+				"re",
+				"res.json"
+			],
+			[
+				"res",
+				"res.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

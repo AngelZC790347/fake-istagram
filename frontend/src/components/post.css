@@ -1,0 +1,15 @@
+#pst-container {
+	margin: auto 0px;
+	position: relative;
+}
+.post_img{
+	width: 140px;
+	height: 140px;
+}
+.post_img:hover{
+/*	filter: contrast(80%);*/
+filter: brightness(80%);
+}
+.info{
+	font-weight: bolder;
+}

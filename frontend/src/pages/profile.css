@@ -1,0 +1,39 @@
+header{
+	margin: 10px 50px;
+	margin-right: 220px;
+	padding: 5px 0px;
+	padding-bottom: 20px;
+	font-size: 0.5em;
+	border-bottom: solid 0.5px gray;
+}
+header img{
+	display: block;
+}
+h2{
+	margin: 0 0;
+	display: inline;
+	font-weight: 400;
+}
+header button{
+	margin-left: 15px;
+	padding: 3px 4px;
+	font-weight: bold;
+	font-size: x-small;	
+}
+header div span{
+	display: inline-block;
+	margin-right: 10px;
+}
+main{
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+/*	margin-left: 20px;*/
+	width: fit-content;
+	margin-left: 40px;
+	column-gap:8px ;
+}
+
+.followButton{
+	background-color: #0933bd;
+	color: white;
+}
